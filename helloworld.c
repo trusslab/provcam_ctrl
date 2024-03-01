@@ -1628,7 +1628,7 @@ int main()
     int should_sign = 0;
     int current_state = 0;
 
-    // Myles: alloc log
+    // : alloc log
 //    printf("Log allocating...\n");
 //	i2c_addrs = (u32*) malloc(sizeof(u32) * DEBUG_LOG_PRINT_MAX);
 //	i2c_vals = (u32*) malloc(sizeof(u32) * DEBUG_LOG_PRINT_MAX);
