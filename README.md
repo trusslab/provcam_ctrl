@@ -41,6 +41,8 @@ We provide design/implmentation documentation and a step-by-step guide to recrea
         - [ISP_HASHER (r_hasher_4_isp.v)](https://github.com/trusslab/provcam_hw/tree/main/sources?tab=readme-ov-file#isp_hasher-r_hasher_4_ispv)
         - [ENCODER_HASHER (axixbar.v)](https://github.com/trusslab/provcam_hw/tree/main/sources?tab=readme-ov-file#encoder_hasher-axixbarv)
     - [Firmware](https://github.com/trusslab/provcam_ctrl/tree/main?tab=readme-ov-file#firmware)
+    - [OS](https://github.com/trusslab/provcam_linux/tree/main?tab=readme-ov-file#os)
+    - [Libraries](https://github.com/trusslab/provcam_libs/tree/main?tab=readme-ov-file#libraries)
     - [Build](https://github.com/trusslab/provcam/tree/main?tab=readme-ov-file#build)
         - [System Requirements](https://github.com/trusslab/provcam/tree/main?tab=readme-ov-file#system-requirements)
             - [Hardware](https://github.com/trusslab/provcam/tree/main?tab=readme-ov-file#hardware)
